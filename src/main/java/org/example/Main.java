@@ -1,4 +1,6 @@
-package org.example.week1;
+package org.example;
+
+import org.example.week1.Mathematics;
 
 public class Main {
     static Mathematics mathematics = new Mathematics();
