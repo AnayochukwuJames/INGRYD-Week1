@@ -5,31 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91953898-3c2a-416e-845b-00645a5e8e1b" name="Changes" comment="Update initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/RelationAndBooleanDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/ShortHandOperatorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/StaticDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/BreakStatementDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/ContinueStatementDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/EnhancedForLoopDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/IfElseIfStatementDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/IfElseStatementDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/IfStatementDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/ShapeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/SwitchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/SwitchDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/Modulus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/Student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/ArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/ArrayDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/StringDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/exercise/Continues.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/exercise/DoWhileLoop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/exercise/DoWhileLoop2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/exercise/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/exercise/Sharp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/exercise/Shape.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/exercise/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/exercise/WhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/exercise/shape/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/exercise/shape/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week1/RaiseToPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/RaiseToPower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/ForLoopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/ForLoopDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/WhileLoopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/WhileLoopDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week1/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week1/GraduateStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/GraduateStudents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week1/JavaStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,63 +40,64 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2cM9PpnkOmF5VVhdv6evCRUuxUM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BinaryConverter.executor": "Run",
-    "Application.BreakStatementDemo.executor": "Run",
-    "Application.ContinueStatementDemo.executor": "Run",
-    "Application.Continues.executor": "Run",
-    "Application.ConversionFromBinaryToAnotherBase.executor": "Run",
-    "Application.DoWhileLoop.executor": "Run",
-    "Application.DoWhileLoop2.executor": "Run",
-    "Application.DoWhileLoopDemo.executor": "Run",
-    "Application.EnhancedForLoopDemo.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.Fibonacci.executor": "Run",
-    "Application.FibonacciUsingRecursion.executor": "Run",
-    "Application.ForLoop.executor": "Run",
-    "Application.ForLoopDemo.executor": "Run",
-    "Application.ForLoopExercise.executor": "Run",
-    "Application.ForLoopFactorial.executor": "Run",
-    "Application.IfElseStatementDemo.executor": "Run",
-    "Application.IfStatementDemo.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.RaiseToPower.executor": "Run",
-    "Application.RelationAndBooleanDemo.executor": "Run",
-    "Application.ShapeDemo.executor": "Run",
-    "Application.Sharp.executor": "Run",
-    "Application.ShortHandOperatorsDemo.executor": "Run",
-    "Application.StaticDemo.executor": "Run",
-    "Application.StudentTest.executor": "Run",
-    "Application.SwitchDemo.executor": "Run",
-    "Application.WhileLoop.executor": "Run",
-    "Application.WhileLoopDemo.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BinaryConverter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BreakStatementDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContinueStatementDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Continues.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConversionFromBinaryToAnotherBase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoWhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoWhileLoop2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoWhileLoopDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EnhancedForLoopDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciUsingRecursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForLoopDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForLoopExercise.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForLoopFactorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfElseStatementDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfStatementDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Modulus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RaiseToPower.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RelationAndBooleanDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShapeDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sharp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShortHandOperatorsDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WhileLoopDemo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Sharp">
+}</component>
+  <component name="RunManager" selected="Application.Fibonacci">
     <configuration name="Continues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.week2.exercise.Continues" />
       <module name="WEEK1" />
@@ -116,8 +111,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week2.exercise.DoWhileLoop" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week1.Fibonacci" />
+      <module name="WEEK1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week2.exercise.ForLoop" />
       <module name="WEEK1" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +137,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhileLoop2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week2.exercise.DoWhileLoop2" />
+    <configuration name="Modulus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week1.Modulus" />
+      <module name="WEEK1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week2.exercise.Shape" />
       <module name="WEEK1" />
       <extension name="coverage">
         <pattern>
@@ -138,56 +159,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShapeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week2.ShapeDemo" />
-      <module name="WEEK1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.week2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sharp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week2.exercise.Sharp" />
-      <module name="WEEK1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.week2.exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="WEEK1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="WEEK1" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sharp" />
-        <item itemvalue="Application.ShapeDemo" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.Modulus" />
         <item itemvalue="Application.Continues" />
-        <item itemvalue="Application.DoWhileLoop2" />
-        <item itemvalue="Application.DoWhileLoop" />
+        <item itemvalue="Application.ForLoop" />
+        <item itemvalue="Application.Shape" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +189,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707910560950</updated>
-      <workItem from="1707910562675" duration="30531000" />
+      <workItem from="1707910562675" duration="41142000" />
+      <workItem from="1708756089770" duration="2146000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -225,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708561136633</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update initial commit">
+      <option name="closed" value="true" />
+      <created>1708699636759</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708699636759</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

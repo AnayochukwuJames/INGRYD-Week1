@@ -1,61 +1,19 @@
 package org.example.week1;
 
-public class Student {
+public class Student extends Student1 {
 
-    private String name;
-    private int age;
-    private String gender;
-    private String studentClass;
+    private int numberOfMonths;
 
-    private static int numberOfStudents;
-
-    //Constructor with 4 arguments to create a Student object
-    public Student(String name, int age, String gender, String studentClass) {
-        this.name = name;
-        this.age = age;
-        this.gender = gender;
-        this.studentClass = studentClass;
-        numberOfStudents++;
-    }
-    public static int getNumberOfStudents(){
-        return numberOfStudents;
-    }
-    public String getName() {
-        return name;
+    public Student(String name, int age, String gender, String studentClass, int numberOfMonths) {
+        super(name, age, gender, studentClass);
+        this.numberOfMonths = numberOfMonths;
     }
 
-    public int getAge() {
-        return age;
+    public int getNumberOfMonths() {
+        return numberOfMonths;
     }
 
-    public String getGender() {
-        return gender;
-    }
-
-    public String getStudentClass() {
-        return studentClass;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public void setAge(int age) {
-        this.age = age;
-    }
-
-    public void setGender(String gender) {
-        this.gender = gender;
-    }
-
-    public void setStudentClass(String studentClass) {
-        this.studentClass = studentClass;
-    }
-
-    @Override
-    public String toString() {
-        return "Student name: " + getName() + ", Age: " + this.age + ", Gender: " + gender + ", Student Class: " + studentClass;
+    public void setNumberOfMonths(int numberOfMonths) {
+        this.numberOfMonths = numberOfMonths;
     }
 }
-
-

@@ -1,6 +1,6 @@
 package org.example.week1;
 
-public class GraduateStudents extends Student{
+public class GraduateStudents extends Student1 {
 
     String thesis;
     String supervisorName;
@@ -28,9 +28,9 @@ public class GraduateStudents extends Student{
     }
 
     public static void main(String[] args) {
-        GraduateStudents graduateStudents = (GraduateStudents)(new Student("Man", 32, "Male", "Beginners"));
+        GraduateStudents graduateStudents = (GraduateStudents)(new Student1("Man", 32, "Male", "Beginners"));
 
-        Student student = new GraduateStudents("Boy", 22, "Female", "Starter", "How to Ride a horse",
+        Student1 student1 = new GraduateStudents("Boy", 22, "Female", "Starter", "How to Ride a horse",
                 "Prof. Sahalu");
     }
 }
