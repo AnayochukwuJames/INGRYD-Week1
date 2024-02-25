@@ -4,14 +4,14 @@ import java.util.Arrays;
 
 public class StringDemo {
     public static void main(String[] args) {
-        String string = "   Hello,     World!   ";
+        String string = "  Hello,     World!   ";
         System.out.println(string);
         System.out.println(string.trim());
         System.out.println(string.trim().toUpperCase().concat("Lower Letters here"));
         System.out.println(string.toLowerCase());
         System.out.println(string.replace('H', 'Y'));
-        System.out.println(string.replace("Hell", "Heaven"));
-        System.out.println(string.replace("H", "Yell"));
+        System.out.println(string.replace("Hell", "Haven"));
+        System.out.println(string.replace("He", "Yell"));
         System.out.println(string.replace('o', 'e'));
         System.out.println();
         System.out.println();
