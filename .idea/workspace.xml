@@ -5,25 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91953898-3c2a-416e-845b-00645a5e8e1b" name="Changes" comment="Update initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/Modulus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/Student1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/ArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/ArrayDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/StringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/exercise/Continues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/exercise/DoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/exercise/DoWhileLoop2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/exercise/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/exercise/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/exercise/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/exercise/WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/exercise/shape/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/exercise/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/takeHome/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/takeHome/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/takeHome/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/takeHome/Question5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week1/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week1/GraduateStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/GraduateStudents.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week1/JavaStudent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/takeHome/StringOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/takeHome/StringOperations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,18 +55,25 @@
     &quot;Application.ForLoopDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.ForLoopExercise.executor&quot;: &quot;Run&quot;,
     &quot;Application.ForLoopFactorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generics.executor&quot;: &quot;Run&quot;,
     &quot;Application.IfElseStatementDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.IfStatementDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Modulus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question4.executor&quot;: &quot;Run&quot;,
     &quot;Application.RaiseToPower.executor&quot;: &quot;Run&quot;,
     &quot;Application.RelationAndBooleanDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.ShapeDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.Sharp.executor&quot;: &quot;Run&quot;,
     &quot;Application.ShortHandOperatorsDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.StaticDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringOperations.executor&quot;: &quot;Run&quot;,
     &quot;Application.StudentTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.SwitchDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Utility.executor&quot;: &quot;Run&quot;,
     &quot;Application.WhileLoop.executor&quot;: &quot;Run&quot;,
     &quot;Application.WhileLoopDemo.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -97,13 +92,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Fibonacci">
-    <configuration name="Continues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week2.exercise.Continues" />
+  <component name="RunManager" selected="Application.Question4">
+    <configuration name="Generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week2.Generics" />
       <module name="WEEK1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.week2.exercise.*" />
+          <option name="PATTERN" value="org.example.week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week1.Fibonacci" />
+    <configuration name="Question3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week2.takeHome.Question3" />
       <module name="WEEK1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.week1.*" />
+          <option name="PATTERN" value="org.example.week2.takeHome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week2.exercise.ForLoop" />
+    <configuration name="Question4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week2.takeHome.Question4" />
       <module name="WEEK1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.week2.exercise.*" />
+          <option name="PATTERN" value="org.example.week2.takeHome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Modulus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week1.Modulus" />
+    <configuration name="StringOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week2.takeHome.StringOperations" />
       <module name="WEEK1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.week1.*" />
+          <option name="PATTERN" value="org.example.week2.takeHome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week2.exercise.Shape" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week2.takeHome.Task3" />
       <module name="WEEK1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.week2.exercise.*" />
+          <option name="PATTERN" value="org.example.week2.takeHome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.Modulus" />
-        <item itemvalue="Application.Continues" />
-        <item itemvalue="Application.ForLoop" />
-        <item itemvalue="Application.Shape" />
+        <item itemvalue="Application.Question4" />
+        <item itemvalue="Application.Question3" />
+        <item itemvalue="Application.StringOperations" />
+        <item itemvalue="Application.Generics" />
+        <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +185,8 @@
       <option name="presentableId" value="Default" />
       <updated>1707910560950</updated>
       <workItem from="1707910562675" duration="41142000" />
-      <workItem from="1708756089770" duration="2146000" />
+      <workItem from="1708756089770" duration="10818000" />
+      <workItem from="1709068939584" duration="287000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -216,7 +212,31 @@
       <option name="project" value="LOCAL" />
       <updated>1708699636759</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update initial commit">
+      <option name="closed" value="true" />
+      <created>1708759127809</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708759127809</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update initial commit">
+      <option name="closed" value="true" />
+      <created>1708759194497</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708759194497</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update initial commit">
+      <option name="closed" value="true" />
+      <created>1708896046596</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708896046596</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
