@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91953898-3c2a-416e-845b-00645a5e8e1b" name="Changes" comment="Update initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/BoundedTypeGenericDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/GenericsMethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/Sam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/SamImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/SamImplementationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/WildCardGenericDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/AccountDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/CurrentAccountDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/SavingsAccountDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/ThisAccountDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AccountDemoTest.executor": "Run",
     "Application.BinaryConverter.executor": "Run",
     "Application.BreakStatementDemo.executor": "Run",
     "Application.ContinueStatementDemo.executor": "Run",
@@ -93,13 +92,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.SamImplementationTest.testAddition">
-    <configuration name="Generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week2.Generics" />
+  <component name="RunManager" selected="Application.AccountDemoTest">
+    <configuration name="AccountDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week3.AccountDemoTest" />
       <module name="WEEK1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.week2.*" />
+          <option name="PATTERN" value="org.example.week3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AccountDemoTest" />
         <item itemvalue="JUnit.SamImplementationTest.testAddition" />
         <item itemvalue="Application.Question4" />
         <item itemvalue="Application.Question3" />
         <item itemvalue="Application.StringOperations" />
-        <item itemvalue="Application.Generics" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +190,8 @@
       <workItem from="1707910562675" duration="41142000" />
       <workItem from="1708756089770" duration="10818000" />
       <workItem from="1709068939584" duration="287000" />
-      <workItem from="1709069375840" duration="2018000" />
+      <workItem from="1709069375840" duration="3734000" />
+      <workItem from="1709200314932" duration="865000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -249,7 +249,39 @@
       <option name="project" value="LOCAL" />
       <updated>1709098740376</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update initial commit">
+      <option name="closed" value="true" />
+      <created>1709161275055</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709161275055</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update initial commit">
+      <option name="closed" value="true" />
+      <created>1709161333892</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709161333892</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update initial commit">
+      <option name="closed" value="true" />
+      <created>1709161399409</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709161399409</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update initial commit">
+      <option name="closed" value="true" />
+      <created>1709161443387</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709161443387</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
