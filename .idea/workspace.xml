@@ -7,13 +7,18 @@
     <list default="true" id="91953898-3c2a-416e-845b-00645a5e8e1b" name="Changes" comment="Update initial commit">
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/CSVFileExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/CheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/DatabaseConnectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/FileReadAndWrite.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/Read.text" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/ReadAndWriteContactList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/ReadAndWriteContactListTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/ReadFileException.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/TryWithResources.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/UncheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/WriteToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/write.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/exercise/FileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/exercise/ReadWriteExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/exercise/read.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/exercise/readwrite.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +54,7 @@
     "Application.ContinueStatementDemo.executor": "Run",
     "Application.Continues.executor": "Run",
     "Application.ConversionFromBinaryToAnotherBase.executor": "Run",
+    "Application.DatabaseConnectionDemo.executor": "Run",
     "Application.DoWhileLoop.executor": "Run",
     "Application.DoWhileLoop2.executor": "Run",
     "Application.DoWhileLoopDemo.executor": "Run",
@@ -56,6 +62,7 @@
     "Application.Factorial.executor": "Run",
     "Application.Fibonacci.executor": "Run",
     "Application.FibonacciUsingRecursion.executor": "Run",
+    "Application.FileWriter.executor": "Run",
     "Application.ForLoop.executor": "Run",
     "Application.ForLoopDemo.executor": "Run",
     "Application.ForLoopExercise.executor": "Run",
@@ -68,6 +75,8 @@
     "Application.Question3.executor": "Run",
     "Application.Question4.executor": "Run",
     "Application.RaiseToPower.executor": "Run",
+    "Application.ReadAndWriteContactListTest.executor": "Run",
+    "Application.ReadFileException.executor": "Run",
     "Application.RelationAndBooleanDemo.executor": "Run",
     "Application.ShapeDemo.executor": "Run",
     "Application.Sharp.executor": "Run",
@@ -93,19 +102,19 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReadFileException">
-    <configuration name="AccountDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week3.AccountDemoTest" />
+  <component name="RunManager" selected="Application.DatabaseConnectionDemo">
+    <configuration name="DatabaseConnectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week4.DatabaseConnectionDemo" />
       <module name="WEEK1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.week3.*" />
+          <option name="PATTERN" value="org.example.week4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +122,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week2.takeHome.Question4" />
+    <configuration name="FileWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week4.exercise.FileWriter" />
       <module name="WEEK1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.week2.takeHome.*" />
+          <option name="PATTERN" value="org.example.week4.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadAndWriteContactListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week4.ReadAndWriteContactListTest" />
+      <module name="WEEK1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.week4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,29 +174,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SamImplementationTest.testAddition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="WEEK1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.week3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example.week3" />
-      <option name="MAIN_CLASS_NAME" value="org.example.week3.SamImplementationTest" />
-      <option name="METHOD_NAME" value="testAddition" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DatabaseConnectionDemo" />
+        <item itemvalue="Application.FileWriter" />
+        <item itemvalue="Application.ReadAndWriteContactListTest" />
         <item itemvalue="Application.ReadFileException" />
         <item itemvalue="Application.WriteToFile" />
-        <item itemvalue="Application.AccountDemoTest" />
-        <item itemvalue="JUnit.SamImplementationTest.testAddition" />
-        <item itemvalue="Application.Question4" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +205,7 @@
       <workItem from="1709068939584" duration="287000" />
       <workItem from="1709069375840" duration="3734000" />
       <workItem from="1709200314932" duration="5285000" />
-      <workItem from="1709358188703" duration="7339000" />
+      <workItem from="1709358188703" duration="19383000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -329,7 +335,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709561692008</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Update initial commit">
+      <option name="closed" value="true" />
+      <created>1709685162752</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1709685162752</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
