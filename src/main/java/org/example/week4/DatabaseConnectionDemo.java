@@ -16,7 +16,7 @@ public class DatabaseConnectionDemo {
 
         Connection connection = null;
         try{
-            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/january_cohort", "root", "12345");
+            connection = DriverManager.getConnection("jdbc:Postgres://localhost:5432/january_cohort", "Postgres", "Anayojames");
             Statement statement = connection.createStatement();
 
             //Create Table users
