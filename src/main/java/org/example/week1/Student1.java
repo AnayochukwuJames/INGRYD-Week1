@@ -1,6 +1,6 @@
 package org.example.week1;
 
-public class Student1 {
+class Student {
 
     private String name;
     private int age;
@@ -10,7 +10,7 @@ public class Student1 {
     private static int numberOfStudents;
 
     //Constructor with 4 arguments to create a Student object
-    public Student1(String name, int age, String gender, String studentClass) {
+    public Student(String name, int age, String gender, String studentClass) {
         this.name = name;
         this.age = age;
         this.gender = gender;

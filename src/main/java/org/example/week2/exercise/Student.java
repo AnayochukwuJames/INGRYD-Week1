@@ -19,6 +19,10 @@ public class Student {
         this.grade = grade;
     }
 
+    public Student(String belloMan, int i, String male, String java) {
+
+    }
+
     public String getFirstName() {
         return firstName;
     }
@@ -78,4 +82,12 @@ public class Student {
     public static void main(String[] args) {
         Student student = new Student("james","Anayo",7,"Java","ICT",90, 'A');
         }
+
+    public String getName() {
+        return null;
     }
+
+    public String getStudentClass() {
+        return null;
+    }
+}
